@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "322128835143",
+    "firebase_url": "https://invoice-book-77141-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "invoice-book-77141",
+    "storage_bucket": "invoice-book-77141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322128835143:android:23560c6c46970756523762",
+        "android_client_info": {
+          "package_name": "com.example.billing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322128835143-11e578n26nvhgkuehd792a7124rube2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTU6-TYn07L83Lzz4jEp0F8UgvSGGHtbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322128835143-11e578n26nvhgkuehd792a7124rube2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

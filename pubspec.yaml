@@ -34,16 +34,34 @@ dependencies:
   url_launcher: ^6.1.12
   fluttertoast: ^8.2.2
   telephony: ^0.2.0
+  background_sms: ^0.0.4
+  flutter_sms: ^2.3.3
+  provider: ^6.0.5
+  intl: ^0.18.1
+  firebase_core: ^2.15.1
+  animate_do: ^3.0.2
+  shared_preferences: ^2.2.1
+  
 
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  firebase_database: ^10.2.5
 
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.2
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/appIcon.png"
+flutter_native_splash:
+  color: "#009688"
+  image: assets/icons/splash.png
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -69,6 +87,10 @@ flutter:
     - assets/images/sms.png
     - assets/images/mail.png
     - assets/images/contacts.png
+    - assets/images/invoice_list.png
+    - assets/images/new_invoice.png
+    - assets/images/islam.png
+    - assets/images/noData.png
   
 
   # An image asset can refer to one or more resolution-specific "variants", see
